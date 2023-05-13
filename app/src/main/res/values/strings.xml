@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyConversion</string>
+    <string name="version">ECM.FANTÔME.01</string>
+    <string name="decimal">Decimal</string>
+    <string name="valeur_decimale">Valeur decimale</string>
+    <string name="btn_convertir_decimal">Convertir</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="valeur_hexadecimal">Valeur hexadecimal</string>
+    <string name="btn_convertir_hexadecimal">Convertir</string>
+    <string name="result">...</string>
+    <string name="binaire">Binaire</string>
+    <string name="valeur_binaire">valeur binaire</string>
+
+</resources>
